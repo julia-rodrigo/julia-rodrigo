@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @julia-rodrigo
-     I have been studying computer science for 2 years
-     And now I'm in 3rd year and I am looking for 
-     Any computer science related placement in or near Dublin 
-     or maybe remotely
+     I have been studying computer science for 2 years.
+     I am now in 3rd year and I am looking for 
+     any computer science related placement in or near Dublin 
+     or perhaps remotely
 
 - 👀 I’m interested in ... 
      Computer programming experience in the industry (internship) 

@@ -1,26 +1,31 @@
 - 👋 Hi, I’m @julia-rodrigo
      I have been studying computer science for almost 4 years now.
-     I am going to graduate soon and I am looking for a graduate program
-     perhaps near or in Dublin, or in Cork
-     or remotely
+     I am going to graduate soon and I am looking for a job opportunity
+     near Cork, Dublin or remotely.
 
 - 👀 I’m interested in ... 
      Computer programming experience in any of the industry.
      I want to improve my coding skills around people. 
      I would like anything in React development as I learnt this in my internship.
      I am not too interested in API testing or testing in general.
-     I am most interested in gaming, 
-     
-     but almost anything will do 
-     as I am still exploring where I wish to stand.
+     I also would like to improve on game developement too.
 
 - 🌱 I’m currently learning ... 
-     Game development. I have made a short battle system in Godot for my university Project.
-     I made some small sprites using Piscels software. I know how to make spritesheets.
-     But I am more interested in how to use the gaming engine to bring my sprites to life 
+     Game development in Godot and TypeScript in Next.js React framework.
+  
+     I have made a short monster-catching rpg game in Godot for my university Project.
+     I made some small sprites and spritesheets using Piscels software.
+     I am more interested in how to use the gaming engine to bring my sprites to life 
      and add some system rules to the game.
      There are so many cool interesting secrets I have yet to discover from Godot. 
      But I am open to learning other engines, especially Unreal Engine.
+
+     I like using TypeScript as I learnt it from my Internship and have recently built my
+     resume from TypeScript. I like the use of tailwindcss to make the app easily responsive on all devices
+     Deploying the app on Vercel is a huge advantage in Next.js.
+     Each time I make new changes, the app is automatically updated!
+     This way, I can check my phone to see if my outcome is as desired.
+     It would be fantastic if gaming engines had this feature.
      
      Back in my internship from last year (2022), I was focusing on:
      How website apps work and how to make connections with the databases. 
@@ -28,9 +33,9 @@
      
 
 - 💞️ I’m looking to collaborate on ... 
-     Making a pokemon-like game with other fans of the franchaise. Or any pixel rpg format. 
-     But to be honest, just about anything to do with coding 
-     in a gaming engine is a huge benefit for me already.
+     Making a pokemon-like game with other fans of the franchaise. Or any pixel rpg format.
+     I would also like to make a new reponsive app. But the best would be to make an app
+     that takes pokemon API through user requests and filters. It is something I am thinking of currently.
      
      I will be happy with anything to do with experience in a computer science driven company. 
 

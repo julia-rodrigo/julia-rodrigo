@@ -13,13 +13,8 @@
 - 🌱 I’m currently learning ... 
      Game development in Godot and TypeScript in Next.js React framework.
   
-     I have made a short monster-catching rpg game in Godot for my university Project.
-     I made some small sprites and spritesheets using Piscels software.
-     I am more interested in how to use the gaming engine to bring my sprites to life 
-     and add some system rules to the game.
-     There are so many cool interesting secrets I have yet to discover from Godot. 
-     But I am open to learning other engines, especially Unreal Engine.
-
+     I have made a short monster-catching rpg game in Godot for my university Project. I made some small sprites and spritesheets using Piskel software. I love bringing my sprites to life and add some system rules to interact with them.
+  
      I like using TypeScript as I learnt it from my Internship and have recently built my
      resume from TypeScript. I like the use of tailwindcss to make the app easily responsive on all devices
      Deploying the app on Vercel is a huge advantage in Next.js.

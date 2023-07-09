@@ -34,8 +34,8 @@
 
 - 💞️ I’m looking to collaborate on ... 
      Making a pokemon-like game with other fans of the franchaise. Or any pixel rpg format.
-     I would also like to make a new reponsive app. But the best would be to make an app
-     that takes pokemon API through user requests and filters. It is something I am thinking of currently.
+     I would also like to make a new reponsive app.
+  In the future, I am planning to learn either Figma for improving UI web design, or Unreal Engine to increase my chance of being recuited into gaming development.
      
      I will be happy with anything to do with experience in a computer science driven company. 
 

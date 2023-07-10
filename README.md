@@ -4,14 +4,14 @@
      near Cork, Dublin or remotely.
 
 - 👀 I’m interested in ... 
-     Computer programming experience in any of the industry.
-     I want to improve my coding skills around people. 
-     I would like anything in React development as I learnt this in my internship.
-     I am not too interested in API testing or testing in general.
-     I also would like to improve on game developement too.
+     Computer programming experience in any of field besides unit/API testing and uses of test frameworks.
+     I want to improve my coding skills around people.
+     I am trying to learn database such as MongoDB since databases was my weakpoint in assignments
+     I am more confident in React development with javascript and typescript.
+     I also would like to improve on game development too.
 
 - 🌱 I’m currently learning ... 
-     Game development in Godot and TypeScript in Next.js React framework.
+     TypeScript and tailwindCSS in next-react-app framework and features such as nextauth and MongoDb
   
      I have made a short monster-catching rpg game in Godot for my university Project. I made some small sprites and spritesheets using Piskel software. I love bringing my sprites to life and add some system rules to interact with them.
   
@@ -20,7 +20,6 @@
      Deploying the app on Vercel is a huge advantage in Next.js.
      Each time I make new changes, the app is automatically updated!
      This way, I can check my phone to see if my outcome is as desired.
-     It would be fantastic if gaming engines had this feature.
      
      Back in my internship from last year (2022), I was focusing on:
      How website apps work and how to make connections with the databases. 
@@ -30,9 +29,7 @@
 - 💞️ I’m looking to collaborate on ... 
      Making a pokemon-like game with other fans of the franchaise. Or any pixel rpg format.
      I would also like to make a new reponsive app.
-  In the future, I am planning to learn either Figma for improving UI web design, or Unreal Engine to increase my chance of being recuited into gaming development.
-     
-     I will be happy with anything to do with experience in a computer science driven company. 
+     In the future, I am planning to learn Unreal Engine to increase my chance of being recuited into gaming development and because the game UI that inspired me "octopath traveller" was made in this engine.
 
 - 📫 How to reach me ...
      You can use my personal gmail: juliarodrigo2301@gmail.com
